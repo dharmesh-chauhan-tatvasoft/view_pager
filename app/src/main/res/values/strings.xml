@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">View Pager</string>
+    <string name="tab_layout">Tab Layout</string>
+    <string name="page_image">Page 1 Image</string>
+    <string name="text_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie pretium odio eget ultricies. Sed accumsan efficitur lectus ac blandit. In vel malesuada augue, id ullamcorper justo. Etiam tincidunt varius ipsum, sit amet molestie neque. Donec eu tellus id dolor tempus pretium. Morbi ac ante ligula. Phasellus tincidunt blandit ex, a facilisis justo ullamcorper in. Nulla eu lacinia erat. Morbi cursus erat massa, ac commodo nisl rhoncus quis. Cras congue, felis in suscipit porta, diam enim mattis lectus, non finibus nibh sem sit amet nisi. Pellentesque a hendrerit sem. Proin eu pretium risus. Cras tristique fringilla lacus ut pulvinar.</string>
+    <string name="invalid_position">Invalid position received</string>
+    <string name="click_me">Click Me</string>
+    <string name="clicked">Clicked!</string>
+    <string name="button_clicked">Button is clicked.</string>
+    <string name="ok">OK</string>
+</resources>
